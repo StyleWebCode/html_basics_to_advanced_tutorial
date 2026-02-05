@@ -47,7 +47,9 @@ HTML kya hain aur web page ka structure ko samjhna
 - Accessibility
 - Responsive HTML Structure
 
-
+### Practice
+- Responsive Website Skeleton
+- Advanced form with validation
 
 
 
