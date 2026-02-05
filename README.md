@@ -21,6 +21,8 @@ HTML kya hain aur web page ka structure ko samjhna
 - Input types (text, email, password, number, file)
 - Labels & Placeholder
 - Buttons
+- Div
+- Inline & Block
 - Semantic tags
 
 ### Practice
